@@ -16,6 +16,9 @@
 	<description>Spring project for Java Technology</description>
 	<properties>
 		<java.version>11</java.version>
+		<sonar.host.url>http://172.31.43.54:9000/</sonar.host.url>
+		<sonar.login>admin</sonar.login>
+		<sonar.token>squ_3418373a2715cb101ee99d641bbe33012f21221f</sonar.token> 
 	</properties>
 	<dependencies>
 
